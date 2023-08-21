@@ -1,6 +1,7 @@
 Resolusi Abuha Digital 1 tahun kedepan
 - Membuat Child Theme Wordpress GeneratePress untuk dijual pada website WPtheme.id
 - Membuat konten Youtube untuk tutorial GeneratePress
+  - Membuat Tutorial pindah website
 - Membuat Landing Page dengan theme builder elementor untuk dijual pada website Landingtor.com
 - Ngiklan FB Ads untuk memperbanyak kolam digital
 - Kolaborasi dengan lebih banyak Expert
