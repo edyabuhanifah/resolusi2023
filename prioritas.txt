@@ -3,9 +3,10 @@ Resolusi Abuha Digital 1 tahun kedepan
   * Belajar coding dasar
 - Membuat konten Youtube untuk tutorial GeneratePress
   - Membuat Tutorial pindah website
+  - Membuat tutorial install plugin GP Premium
   - Membeli perlengkapan konten
 - Membuat Landing Page dengan theme builder elementor untuk dijual pada website Landingtor.com
-- Ngiklan FB Ads untuk memperbanyak kolam digital
 - Kolaborasi dengan lebih banyak Expert
-  -memperbanyak teman FB
+  - memperbanyak teman FB
   - membuat grup FB
+
